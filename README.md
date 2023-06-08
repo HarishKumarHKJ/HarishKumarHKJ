@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarishKumar
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning Fulstack
+- 🌱 I’m currently learning Fullstack
 - 📫 How to reach me darksunhk@gmail.com
 
 <!---
