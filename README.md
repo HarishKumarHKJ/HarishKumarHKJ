@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarishKumar
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning Fullstack
+- 🌱 I’m Fullstack Web Developer 
 - 📫 How to reach me harishkumarhk0227@gmail.com
 <!--- - 🌍 My Personal Portfolio https://hk-portfolio-new.netlify.app/ ---!>
 
